@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Aswin Payyampally
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Aswin Payyampally
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Aswin
+last_name:  Payyampally
 
 # Status emoji
 status:
@@ -20,93 +20,75 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Kerala University of Digital Sciences, Innovation and Technology (Digital University Kerala)
+    url: http://duk.ac.in//
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:your-aswin.res21@duk.ac.in'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/p96aswin
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/aswinpayyampally
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/aswinpayyampally/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/aswinp96/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=K5_tExYAAAAJ&hl=en&authuser=1
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-6417-5078
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence (AI)
+  - IoT Network Security
+  - Intrusion Detection Systems
+  - Natural Language Processing (NLP)
+  - Large Language Models (LLM)
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Persuing PhD in Intrusion Detection in IoT Network
+    institution: Kerala University of Digital Sciences, Innovation and Technology (Digital University Kerala)
+    date_start: 2021-11-01
+    date_end: Present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Working on the Security of IoT Networks and related systems in a development of Intelligent Intrusion Detection Systems . Supervised by [Prof Sabu M Thampi](http://www.sabumthampi.in/). 
     button:
-      text: 'Read Thesis'
+      text: 'Read Details'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Tech. in Computer Science and Technology
+    institution: Central University of Punjab
+    date_start: 2019-10-24
+    date_end: 2021-10-24
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      - Advanced Data Structure
+      - Mathematical Foundation of Computer Science
+      - Advance Algorithm
+      - Soft Computing
+      - Machine Learning
+      - Software Testing & Maintenance
+      - Research Methodology
+      - Big Data Analysis and Visualization
+      - Digital Forensics
+      - Python Programming for Data Sciences
+      - Data Warehousing and Data Mining
+      - Software Metrics
+  - area: B.Tech Computer Science and Engineering
+    institution: Kannur University (Govt. College of Engineering Kannur)
+    date_start: 2014-01-01
+    date_end: 2018-12-31
+
+
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+ 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -144,43 +126,18 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+ 
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
-
+  - title: Qualified UGC NET for Assistant Professor in Computer Science and Applications
+    url:  
+    date: '2020-11-25'
+    awarder: UGC
+ 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a **Ph.D. student** in the Computer Science and Engineering discipline at [**Kerala University of Digital Sciences, Innovation and Technology**](https://duk.ac.in/), where [Prof. Sabu M Thampi](http://www.sabumthampi.in/) advises me. My area of interest includes **Internet of Things, Intrusion Detection, AI/ML, NLP**. I work on creating robust defenses against **IoT Attacks**. 
