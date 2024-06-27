@@ -23,17 +23,18 @@ He has completed his M.Tech. degree in Computer Science and Technology from the 
 - ⚡ Fun fact: <b>Traveling the 🌎 with 🖤 for espresso ☕️ & crazy for 💻. </b>
 -->
 ----
-<!--
+
 ## Research Interests 🤯
 
-- **Natural Language Processing:** Robust and Interpretable NLP, Secure NLP, Model-Editing, Word Segmentation, and Conversational AI.
-- **Machine Learning:** Adversarial Attacks, Poisoning Attacks, Data and Embedding Poisoning Attacks.
+- **Natural Language Processing:** Data processing and transformation 
+- **Machine Learning:** Intrusion Detection in IoT Networks, Several network attacks
+- **Artificial Intelligence:** Make the models more interpretable 
 
 ## Skills 😎
-- _Programming_: Python, R, C
-- _Web Technologies_: Javascript, Flask, ReactJS, Bootstrap
-- _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch, Flair, Trankit, TextAttack, SeqAttack
-
+- _Programming_: Python, C, CPP, JAVA, HTML
+- _Web Technologies_: Javascript, Bootstrap
+- _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch
+<!-->
 ## News 🔊
 - **[June 2024]** Gave a talk at India-ML Reading Group on "Editing LLMs"! 🤩 ([Recording](https://youtu.be/g38gQ8ykUSw))
 - **[March 2024]** Attended [EACL 2024](https://2024.eacl.org/), March 17-22, 2024, at St. Julian's, Malta! 🇲🇹
@@ -56,25 +57,25 @@ He has completed his M.Tech. degree in Computer Science and Technology from the 
 - **[Jan 2022]** Attended [Advanced Language Processing Winter School (ALPS) 2022](http://alps-2022.imag.fr/index.php/speakers/index.html). 
 - **[August 2021]** Started doctoral journey with [Prof. Mayank Singh](https://mayank4490.github.io/) at [Computational Linguistics and Complex Social Networks Group](https://labs.iitgn.ac.in/lingo/). 📢📢📢
 
-
+-->
 ## Education 👨🏻‍🎓
 
-- **[Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/)**
+- **[Digital University Kerala](https://duk.ac.in/)**
   <br>
   _Doctor of Philosophy_ in _Computer Science and Engineering_, 2021 - Present
   <br>
-  Thesis: Defending and Editing Large Language Models
+  Thesis: Intrusion Detection in IoT Networks
 - **[Central University of Punjab](http://cup.edu.in/)**
   <br>
-  _Master of Technology_ in _Computer Science and Technology_, 2019 - 2021, _Rank: 1 (Gold Medalist)_
+  _Master of Technology_ in _Computer Science and Technology_, 2019 - 2021
   <br>
-  Thesis: Assessing Empathetic Capabilities in Conversational Approaches
-- **[Hemvati Nandan Bahuguna Garhwal University (A Central University)](https://www.hnbgu.ac.in/home)**
+  Thesis: A Systematic approach for Speech to Text Translation and Summarization
+- **[Kannur University](https://www.kannuruniversity.ac.in/en/)**
   <br>
-  _Bachelor of Technology_ in _Computer Science and Engineering_, 2015 - 2019, _Rank: 1_
+  _Bachelor of Technology_ in _Computer Science and Engineering_, 2014 - 2018 
   <br>
-  Thesis: Vehicle simulation using Q-Learning and vehicle control in CARLA
-
+  Thesis: Eye Controlled Virtual Keyboard using Deep Learning
+<!--
 ## Publications (Citations: 56) 📚
 
 - **Remember This Event That Year? 🤔 Assessing Temporal Information and Reasoning in Large Language Models**
