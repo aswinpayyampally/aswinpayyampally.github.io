@@ -14,7 +14,6 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👨🏻‍💻 # the emoji used as the favicon
 remote_theme: yaoyao-liu/minimal-light
 
-| <a href="https://www.linkedin.com/in/aswinp96/"><img src="./socials/link.jpeg" height = "22px" width="22px"></a>  | <a href="https://scholar.google.com/citations?user=K5_tExYAAAAJ&hl=en&authuser=1"><img src="./socials/scholar.jpeg" height = "22px" width="22px"></a>  | <a href="https://github.com/aswinpayyampally/"><img src="./socials/github.jpg" height = "22px" width="22px"></a> |
 google_scholar: https://scholar.google.com/citations?user=K5_tExYAAAAJ&hl=en&authuser=1
 github_link: https://github.com/aswinpayyampally/
 linkedin: https://www.linkedin.com/in/aswinp96/
