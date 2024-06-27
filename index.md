@@ -34,7 +34,7 @@ He has completed his M.Tech. degree in Computer Science and Technology from the 
 - _Programming_: Python, C, CPP, JAVA, HTML
 - _Web Technologies_: Javascript, Bootstrap
 - _Libraries_: NLTK, OpenCV, PyTorch, Tensorflow, Transformers, ElasticSearch
-<!-->
+<!--
 ## News 🔊
 - **[June 2024]** Gave a talk at India-ML Reading Group on "Editing LLMs"! 🤩 ([Recording](https://youtu.be/g38gQ8ykUSw))
 - **[March 2024]** Attended [EACL 2024](https://2024.eacl.org/), March 17-22, 2024, at St. Julian's, Malta! 🇲🇹
@@ -56,11 +56,10 @@ He has completed his M.Tech. degree in Computer Science and Technology from the 
 - **[Feb 2022]** Attended [Research Week with Google 2022](https://sites.google.com/view/researchweek2022).
 - **[Jan 2022]** Attended [Advanced Language Processing Winter School (ALPS) 2022](http://alps-2022.imag.fr/index.php/speakers/index.html). 
 - **[August 2021]** Started doctoral journey with [Prof. Mayank Singh](https://mayank4490.github.io/) at [Computational Linguistics and Complex Social Networks Group](https://labs.iitgn.ac.in/lingo/). 📢📢📢
-
 -->
 ## Education 👨🏻‍🎓
 
-- **[Digital University Kerala](https://duk.ac.in/)**
+- **[Kerala University of Digital Sciences, Innovation and Technology (Digital University Kerala)](https://duk.ac.in/)**
   <br>
   _Doctor of Philosophy_ in _Computer Science and Engineering_, 2021 - Present
   <br>
