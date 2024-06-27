@@ -9,7 +9,7 @@ layout: default
 
 ## About Me 🫡
 
-I am a **Ph.D. student** in the Computer Science and Engineering discipline at [**Kerala University of Digital Sciences, Innovation and Technology**](https://duk.ac.in/), where [Prof. Sabu M Thampi](http://www.sabumthampi.in/) advises me. My area of interest includes **Internet of Things, Intrusion Detection, AI/ML, NLP**. I work on creating robust defenses against **IoT Attacks** and **Defense**. 
+I am a **Ph.D. student** in the Computer Science and Engineering discipline at [**Kerala University of Digital Sciences, Innovation and Technology**](https://duk.ac.in/), where [Prof. Sabu M Thampi](http://www.sabumthampi.in/) advises me. My area of interest includes **Internet of Things, Intrusion Detection, AI/ML, NLP**. I work on creating robust defenses against **IoT Attacks.**. 
 
 #### More about me! 💭
 <!--
