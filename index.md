@@ -9,7 +9,7 @@ layout: default
 
 ## About Me 🫡
 
-I am a **Ph.D. student** in the Computer Science and Engineering discipline at [**Kerala University of Digital Sciences, Innovation and Technology**](https://duk.ac.in/), where [Prof. Sabu M Thampi](http://www.sabumthampi.in/) advises me. My area of interest includes **Internet of Things, Intrusion Detection, AI/ML, NLP**. I work on creating robust defenses against **IoT Attacks.**. 
+Aswin Payyampally is a enthusiastic **Research Fellow** in the Computer Science and Engineering discipline at [**Kerala University of Digital Sciences, Innovation and Technology (Digital University Kerala)**](https://duk.ac.in/), His area of interest includes **Internet of Things, Intrusion Detection, AI/ML, NLP**. I work on creating robust defenses against **IoT Attacks.**. Currently, Working on Security issues in IoT networks and immersive technologies, with a particular emphasis on Advancements in Intrusion Deection systems and lightweight mechanisms. Under the supervision of [Dr. Sabu M Thampi](http://www.sabumthampi.in/), he is exploring this cutting-edge field and the related security issues in IoT Networks and other related domains to come up with novel innovative contributions in the field.
 
 #### More about me! 💭
 <!--
